@@ -1,19 +1,18 @@
 steamPage:
     shortText: shapez.io je igra o pravljenju fabrika za automatizaciju stvaranja i
         spajanja sve složenijih oblika na beskonačno velikoj mapi.
-    discordLinkShort: Official Discord
+    discordLinkShort: Zvanični Discord server
     intro: >-
-        Shapez.io is a relaxed game in which you have to build factories for the
-        automated production of geometric shapes.
+        Shapez.io je igra za opuštanje u kojoj treba da gradite fabrike za automatsku proizvodnju geometrijskih oblika.
 
-        As the level increases, the shapes become more and more complex, and you have to spread out on the infinite map.
+        Iz nivoa u nivo, oblici će postajati sve kompleksniji i moraćete da zauzimate sve veći deo beskonačno velike mape.
 
-        And as if that wasn't enough, you also have to produce exponentially more to satisfy the demands - the only thing that helps is scaling!
+        I kao da to nije dovoljno, proizvodnja će morati da raste eksponencijalno kako bi zadovoljila potražnju - jedino što ovde pomaže je skaliranje!
 
-        While you only process shapes at the beginning, you have to color them later - for this you have to extract and mix colors!
+        Dok u početku radite samo sa oblicima, kasnije ćete morati da ih obojite - za ovo treba da ekstrahujete i mešate boje!
 
-        Buying the game on Steam gives you access to the full version, but you can also play a demo on shapez.io first and decide later!
-    what_others_say: What people say about shapez.io
+        Kupovinom igre na Steam-u dobićete pristup kompletnoj verziji, ali takođe možete prvo igrati demo verziju na shapez.io i odlučiti se za kupovinu tek kasnije!
+    what_others_say: Rekli su o shapez.io
     nothernlion_comment: This game is great - I'm having a wonderful time playing,
         and time has flown by.
     notch_comment: Oh crap. I really should sleep, but I think I just figured out
@@ -52,49 +51,46 @@ global:
         escape: ESC
         shift: SHIFT
         space: SPACE
-    loggingIn: Logging in
+    loggingIn: Prijavljivanje
 demoBanners:
     title: Demo Verzija
-    intro: Nabavite punu igru kako biste otključali sve funkcije!
+    intro: Nabavite kompletnu verziju igre kako biste otključali sve funkcije!
 mainMenu:
     play: Igraj
     continue: Nastavi
-    newGame: Nova Igra
+    newGame: Nova igra
     changelog: Promene
     subreddit: Reddit
     importSavegame: Uvezi
     openSourceHint: Ova igra je otvorenog koda!
-    discordLink: Oficijalni Diskord server
+    discordLink: Zvanični Diskord server
     helpTranslate: Pomozite sa prevođenjem!
     madeBy: Napravio <author-link>
-    browserWarning: Izvinjavamo se, pošto je poznato da se ova igra koči u
-        pretraživaču! Za puno iskustvo nabavite samostalnu verziju ili koristite
-        chrome.
+    browserWarning: Izvinjavamo se, poznato je da ova igra koči u Vašem pretraživaču! Za besprekorno iskustvo kupite kompletnu verziju ili koristite Google Chrome pretraživač.
     savegameLevel: Nivo <x>
-    savegameLevelUnknown: Nepoznat Nivo
-    savegameUnnamed: Unnamed
-    puzzleMode: Puzzle Mode
-    back: Back
-    puzzleDlcText: Do you enjoy compacting and optimizing factories? Get the Puzzle
-        DLC now on Steam for even more fun!
-    puzzleDlcWishlist: Wishlist now!
-    puzzleDlcViewNow: View Dlc
+    savegameLevelUnknown: Nepoznat nivo
+    savegameUnnamed: Bez imena
+    puzzleMode: Puzzle mod
+    back: Nazad
+    puzzleDlcText: Da li vam se sviđa pravljenje sve kompaktnijih i optimizovanijih fabrika? Kupite Puzzle DLC na Steam-u za još više zabave!
+    puzzleDlcWishlist: Stavite na Wishlist!
+    puzzleDlcViewNow: Pogledajte DLC
 dialogs:
     buttons:
         ok: OK
         delete: Izbriši
         cancel: Poništi
         later: Kasnije
-        restart: Ponovo pokreni
+        restart: Pokreni ponovo
         reset: Resetuj
-        getStandalone: Nabavite samostalnu igru
+        getStandalone: Nabavite kompletnu verziju igre
         deleteGame: Znam šta radim
         viewUpdate: Pogledajte ažuriranje
-        showUpgrades: Prikaži Nadogradnje
+        showUpgrades: Prikaži nadogradnje
         showKeybindings: Prikaži podešavanje tastera
-        retry: Retry
-        continue: Continue
-        playOffline: Play Offline
+        retry: Pokušaj ponovo
+        continue: Nastavi
+        playOffline: Igraj offline
     importSavegameError:
         title: Greška prilikom uvoza
         text: "Neuspešan uvoz sačuvane igre:"
@@ -105,19 +101,18 @@ dialogs:
         title: Igra je pukla
         text: "Neuspešno učitavanje sačuvane igre:"
     confirmSavegameDelete:
-        title: Potrvrdi brisanje
-        text: Are you sure you want to delete the following game?<br><br>
-            '<savegameName>' at level <savegameLevel><br><br> This can not be
-            undone!
+        title: Potvrdi brisanje
+        text: Da li ste sigurni da želite da obrišete sledeću igru?<br><br>
+            '<savegameName>' na nivou <savegameLevel><br><br> Ova akcija se ne može vratiti unazad!
     savegameDeletionError:
         title: Greška prilikom brisanja
         text: "Neuspešno brisanje sačuvane igre:"
     restartRequired:
         title: Potrebno je ponovno pokretanje
-        text: Da bi primenili podešavanja, potrebno je da ponovo pokrenute igru.
+        text: Da biste primenili podešavanja, potrebno je da ponovo pokrenete igru.
     editKeybinding:
         title: Promeni podešavanja tastera
-        desc: Pritisnite taster ili dugme na mišu koje žeite da dodelite, ili Escape za
+        desc: Pritisnite taster ili dugme na mišu koje želite da dodelite, ili Escape za
             otkazivanje.
     resetKeybindingsConfirmation:
         title: Resetuj podešavanja tastera
@@ -129,16 +124,16 @@ dialogs:
     featureRestriction:
         title: Demo Verzija
         desc: Pokušali ste da pristupite funkciji (<feature>) koja nije dostupna u demo
-            verziji. Za puno iskustvo, nabavite samostalnu igru!
+            verziji. Za puno iskustvo, nabavite kompletnu verziju igre!
     oneSavegameLimit:
         title: Ograničen broj sačuvanih igara
         desc: Možete imati samo jednu sačuvanu igru u demo verziji. Izbrišite postojeću
-            ili nabavite samostalnu igru!
+            ili nabavite kompletnu verziju igre!
     updateSummary:
         title: Novo ažuriranje!
-        desc: "OVo su promene od zadnjeg igranja:"
+        desc: "OVo su promene od poslednjeg igranja:"
     upgradesIntroduction:
-        title: Oktključaj Nadogradnje
+        title: Oktključaj nadogradnje
         desc: Svi oblici koje napravite mogu se iskoristiti za oktljučavanje nadogradnji
             - <strong>Ne uništavajte stare fabrike!</strong> Karticu za
             nadogradnje možete pronaći u gornjem desnom uglu ekrana.
@@ -154,44 +149,39 @@ dialogs:
             želite da je izrežete?
     blueprintsNotUnlocked:
         title: Zaključano
-        desc: Završite nivo 12 kako bi otključali Nacrte!
+        desc: Završite nivo 12 kako biste otključali nacrte!
     keybindingsIntroduction:
         title: Korisne kombinacije tastera
         desc: "Ova igra ima dosta kombinacija tastera koji olakšavaju izgradnju velikih
-            fabrika. Ovo su neki, ali se preporučuje da <strong>pogledate sve
+            fabrika. Ovo su neke od njih, ali se preporučuje da <strong>pogledate sve
             kombinacije</strong>!<br><br> <code class='keybinding'>CTRL</code> +
             Miš: Biranje oblasti.<br> <code class='keybinding'>SHIFT</code>:
-            Držato za postavljanje više istih zgrada odjednom.<br> <code
-            class='keybinding'>ALT</code>: Okrenite smer postavljenh pokretnih
+            Držite pritisnuto za postavljanje više istih zgrada odjednom.<br> <code
+            class='keybinding'>ALT</code>: Rotirajte smer postavljenh pokretnih
             traka.<br>"
     createMarker:
-        title: Novi Putokaz
-        titleEdit: Uredi Putokaz
-        desc: Give it a meaningful name, you can also include a <strong>short
-            key</strong> of a shape (Which you can generate <link>here</link>)
+        title: Novi marker
+        titleEdit: Uredi marker
+        desc: Dajte markeru prepoznatljivo ime. Možete uključiti i <strong>šifru</strong> oblika (koju možete generisati <link>ovde</link>)
     markerDemoLimit:
-        desc: U demo verziji možete imati samo dva putokaza istovremeno. Nabavite
-            samostalnu igru za beskonačno mnogo putokaza!
+        desc: U demo verziji možete imati samo dva markera istovremeno. Nabavite kompletnu verziju igre za beskonačno mnogo markera!
     exportScreenshotWarning:
         title: Izvezi sliku ekrana
-        desc: Hoćete da izvezete sliku cele fabrike kao snimak ekrana. Ovaj proces može
-            biti prilično spor za velike fabrike, može se desiti i pucanje igre!
+        desc: Pokušali ste da izvezete sliku cele fabrike kao snimak ekrana. Ovaj proces može biti prilično spor za velike fabrike, može se desiti i pucanje igre!
     editSignal:
         title: Set Signal
         descItems: "Choose a pre-defined item:"
         descShortKey: ... or enter the <strong>short key</strong> of a shape (Which you
             can generate <link>here</link>)
     renameSavegame:
-        title: Rename Savegame
-        desc: You can rename your savegame here.
+        title: Preimenuj sačuvanu igru
+        desc: Ovde možete preimenovati sačuvanu igru.
     tutorialVideoAvailable:
-        title: Tutorial Available
-        desc: There is a tutorial video available for this level! Would you like to
-            watch it?
+        title: Postoji raspoloživ tutorijal
+        desc: Postoji tutorijal video za ovaj nivo! Da li želite da ga pogledate?
     tutorialVideoAvailableForeignLanguage:
-        title: Tutorial Available
-        desc: There is a tutorial video available for this level, but it is only
-            available in English. Would you like to watch it?
+        title: Postoji raspoloživ tutorijal
+        desc: Postoji tutorijal video za ovaj nivo, ali samo na engleskom jeziku! Da li želite da ga pogledate?
     editConstantProducer:
         title: Set Item
     puzzleLoadFailed:
@@ -205,16 +195,14 @@ dialogs:
             of the randomly suggested shapes below):"
         placeholderName: Puzzle Title
     puzzleResizeBadBuildings:
-        title: Resize not possible
-        desc: You can't make the zone any smaller, because then some buildings would be
-            outside the zone.
+        title: Promena veličine nije moguća
+        desc: Ne možete smanjiti zonu, jer će onda neke građevine biti van zone.
     puzzleLoadError:
         title: Bad Puzzle
         desc: "The puzzle failed to load:"
     offlineMode:
-        title: Offline Mode
-        desc: We couldn't reach the servers, so the game has to run in offline mode.
-            Please make sure you have an active internet connection.
+        title: Offline mod
+        desc: Konekcija sa serverom ne može biti ostvarena, tako da će igra biti pokrenuta u offline modu. Molimo proverite da li imate ispravnu internet konekciju.
     puzzleDownloadError:
         title: Download Error
         desc: "Failed to download the puzzle:"
@@ -284,7 +272,7 @@ ingame:
         blue: Plava
         yellow: Žuta
         purple: Ljubičasta
-        cyan: Cijan
+        cyan: Tirkizna
         white: Bela
         black: Crna
         uncolored: Bez boje
@@ -295,7 +283,7 @@ ingame:
             speed: Brzina
             range: Domet
             storage: Skladište
-            oneItemPerSecond: 1 premet / sekundi
+            oneItemPerSecond: 1 predmet / s
             itemsPerSecond: <x> predmeta / s
             itemsPerSecondDouble: (x2)
             tiles: <x> polja
@@ -307,12 +295,12 @@ ingame:
     notifications:
         newUpgrade: Nova nadogradnja je dostupna!
         gameSaved: Igra je sačuvana.
-        freeplayLevelComplete: Level <level> has been completed!
+        freeplayLevelComplete: Nivo <level> je završen!
     shop:
         title: Nadogradnje
         buttonUnlock: Nadogradi
         tier: <x> red
-        maximumLevel: MAKSIMALNI LEVEL (Brzina x<currentMult>)
+        maximumLevel: MAKSIMALNI NIVO (Brzina x<currentMult>)
     statistics:
         title: Statistika
         dataSources:
@@ -344,9 +332,9 @@ ingame:
     waypoints:
         waypoints: Putokazi
         hub: Središte
-        description: Klikni levim klikom na putokaz kako bi skočio na njegovu lokaciju,
-            a izbriši ga desnim klikom. <br><br>Za stvaranje putokaza pritisni
-            <keybinding>, ili <strong>desnim klikom</strong> napravi putokaz na
+        description: Kliknite levim tasterom miša na putokaz kako biste skočili na njegovu lokaciju,
+            a izbrišite ga desnim klikom. <br><br>Za stvaranje putokaza pritisnite
+            <keybinding>, ili <strong>desnim klikom</strong> napravite putokaz na
             odabranoj lokaciji.
         creationSuccessNotification: Putokaz kreiran.
     shapeViewer:
@@ -362,9 +350,9 @@ ingame:
                 traku</strong>.<br><br>Savet: <strong>Pritisni i
                 prevuci</strong> traku mišem!"
             1_3_expand: "Ovo <strong>NIJE</strong> pasivna igra čekanja! Više rudara i
-                pokretnih traka će ubrzati napredak do cilja.<br><br>Savet: Drži
+                pokretnih traka će ubrzati napredak do cilja.<br><br>Savet: Držite
                 <strong>SHIFT</strong> za postavljanje više rudara istovremeno,
-                a pritisni <strong>R</strong> za okretanje."
+                a pritisnite <strong>R</strong> za okretanje."
             2_1_place_cutter: "Now place a <strong>Cutter</strong> to cut the circles in two
                 halves!<br><br> PS: The cutter always cuts from <strong>top to
                 bottom</strong> regardless of its orientation."
@@ -390,23 +378,23 @@ ingame:
                 signal</strong> and thus activate the painter.<br><br> PS: You
                 don't have to connect all inputs! Try wiring only two."
     connectedMiners:
-        one_miner: 1 Miner
-        n_miners: <amount> Miners
-        limited_items: Limited to <max_throughput>
+        one_miner: 1 rudar
+        n_miners: <amount> rudar(a)
+        limited_items: Ograničeno na <max_throughput>
     watermark:
-        title: Demo version
-        desc: Click here to see the Steam version advantages!
-        get_on_steam: Get on steam
+        title: Demo verzija
+        desc: Kliknite ovde da pogledate prednosti Steam verzije!
+        get_on_steam: Nabavite na Steam-u
     standaloneAdvantages:
-        title: Get the full version!
-        no_thanks: No, thanks!
+        title: Nabavi kompletnu verziju!
+        no_thanks: Ne, hvala!
         points:
             levels:
-                title: 12 New Levels
-                desc: For a total of 26 levels!
+                title: 12 novih nivoa
+                desc: Za ukupan broj od 26 nivoa!
             buildings:
-                title: 18 New Buildings
-                desc: Fully automate your factory!
+                title: 18 novih tipova građevina
+                desc: Potpuno automatizujte svoju fabriku!
             upgrades:
                 title: ∞ Upgrade Tiers
                 desc: This demo version has only 5!
@@ -426,15 +414,15 @@ ingame:
                 title: Achievements
                 desc: Hunt them all!
     puzzleEditorSettings:
-        zoneTitle: Zone
-        zoneWidth: Width
-        zoneHeight: Height
+        zoneTitle: Zona
+        zoneWidth: Širina
+        zoneHeight: Visina
         trimZone: Trim
-        clearItems: Clear Items
-        share: Share
-        report: Report
-        clearBuildings: Clear Buildings
-        resetPuzzle: Reset Puzzle
+        clearItems: Obriši objekte
+        share: Podeli
+        report: Prijavi
+        clearBuildings: Obriši građevine
+        resetPuzzle: Resetuj
     puzzleEditorControls:
         title: Puzzle Creator
         instructions:
@@ -460,10 +448,10 @@ ingame:
         continueBtn: Keep Playing
         menuBtn: Menu
     puzzleMetadata:
-        author: Author
-        shortKey: Short Key
+        author: Autor
+        shortKey: Skraćenica
         rating: Difficulty score
-        averageDuration: Avg. Duration
+        averageDuration: Prosečno trajanje
         completionRate: Completion rate
 shopUpgrades:
     belt:
